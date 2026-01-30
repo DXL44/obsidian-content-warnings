@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-content-warnings",
+	"name": "Content Warnings",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": " Display a warning when opening notes with certain tags.",
+	"author": "DXL44",
+	"authorUrl": "https://dxl44.github.io",
+	"fundingUrl": "https://ko-fi.com/dxl44",
 	"isDesktopOnly": false
 }
